@@ -64,15 +64,3 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Contribution
 Contributions are welcome! Please fork the repository and submit a pull request.
-
-## Citation
-If you use this project in your research, please cite our work:
-```
-@article{neurosync2024,
-  author = {Jalloul, Basma and Chaabene, Siwar and Bouaziz, Bassem and Mahdi, Walid},
-  title = {NeuroSync: A Multimodal Synchronization Framework for Neurocognitive Diagnostics},
-  journal = {Journal of Systems Architecture},
-  year = {2024},
-  publisher = {Elsevier}
-}
-```
